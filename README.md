@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Define a function using a function declaration
-- Define the term hoisting
+- Define the term hoisting 
 - Define a function using a function expression
 - Define the term "anonymous function"
 - Define an IIFE: Instantly-Invoked Function Expression
